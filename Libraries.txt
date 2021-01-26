@@ -1,0 +1,6 @@
+- NumPy is a library which adds support for large, multi-dimensional arrays and matrices, 
+  along with a large collection of high-level mathematical functions to operate on these arrays.
+- TensorFlow is one of the most popular deep learning frameworks for python which is developed by Google
+- Keras is a library which provides most of the ANN-Layers which are used in TensorFlow
+- PlotNine is used to visualize data in Python
+- Pandas is a library written for Python which is used for data manipulation and analysis.
